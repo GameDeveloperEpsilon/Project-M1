@@ -13,5 +13,7 @@ func main() {
 	var1 = 72.1
 	fmt.Println(var0 + var1)
 	
+	fmt.Println("Do robots dream of electric sheep?")
+
 	fmt.Println("Goodbye World!")
 }
